@@ -25,6 +25,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+<h2>High-Level Steps</h2>
+
+- Connect to Virtual Machine
+- Installation of osTicket in VM
+- Installation of some programs for better reading
+- Login to your account and knows level of request
+- Resolve Tickets assigned 
+
 <h2>Lifecycle Stages</h2>
 
 <p>
